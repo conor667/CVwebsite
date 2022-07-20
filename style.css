@@ -66,7 +66,7 @@ canvas {
     padding: 0;
     grid-column: 2 / span 9;
     margin-bottom: var(--spacing);
-    background-colour: red;
+    background-color: red;
   }
 
   blockquote p {
